@@ -1,9 +1,4 @@
 
 abcd
-<<<<<<< HEAD
-may 1 11:01
-may4
-=======
 May 2 2016
 May 3 2016
->>>>>>> origin/master
